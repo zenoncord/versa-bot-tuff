@@ -1,0 +1,7 @@
+discord.py==2.3.2
+pillow==10.1.0
+requests==2.31.0
+aiohttp==3.9.1
+async-timeout==4.0.3
+python-dotenv==1.0.0
+roblox.py==0.20.0
